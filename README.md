@@ -5,7 +5,10 @@
  
   Google Play store is a digital distribution service operated and developed by Google. so it is the one place to find, enjoy and shape apps, Music, Movies and Books - Instantly anywhere across the web & android devices. It was initially launched in October 2008 under the name Android Market but now it has become Google's official app store. Google Play is rapidly published to over 2.5 billion active android devices and it helps the developer, content maker and user to grow a global audience for the app and games and earn revenue.
   
-  In this project, we have two datasets. They are play store datasets and User reviews. It contain around 10k record. The objective of this experiment is to deliver insights to understand customer demands better and thus help developers to popularize the product. We have tried to discover the relationships among various attributes such as which application is free or paid, what are the user reviews, rating of the application
+  In this project, we have two datasets. They are play store datasets and User reviews. It contain around 10k record. The objective of this experiment is to deliver insights to understand customer demands better and thus help developers to popularize the product. We have tried to discover the relationships among various attributes such as which application is free or paid, what are the user reviews, rating of the application. Link for [Demo Video](https://drive.google.com/file/d/1FfpxiuKXACLqc--FmJahfXin5kISujUA/view?usp=sharing). Click here to download [ppt](https://drive.google.com/file/d/1Ej_uitHGtqiIWZL1hMGJwsYAp4BBTxAN/view?usp=sharing) of this project.
+  
+  
+  
   ## Objective
   
   ---
