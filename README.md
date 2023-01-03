@@ -72,7 +72,7 @@
 * The better rating apps are downloaded more and does not matter if it's costly or heavy in size.
  ---
  
- Note: Fell free to give Feedback......
+ Note: Feel free to give Feedback......
  
  Gmail : maxashoka3@gamil.com
  
